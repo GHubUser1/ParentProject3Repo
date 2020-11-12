@@ -5,7 +5,7 @@
 
   <groupId>fr.imiddleware.projets</groupId>
   <artifactId>ParentProject3</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>pom</packaging>
 
   <name>ParentProject3</name>
@@ -40,6 +40,7 @@
 		<developerConnection>scm:git:https://github.com/GHubUser1/TestProjectsRepo</developerConnection>
 		<connection>scm:git:https://github.com/GHubUser1/TestProjectsRepo</connection>
 		<url>https://github.com/GHubUser1/TestProjectsRepo</url>
+    <tag>ParentProject3-1.0</tag>
   </scm>
 
   <build>
